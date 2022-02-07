@@ -369,4 +369,4 @@ function randomNumber(min, max) {
   max = Math.floor(max);
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-client.login(process.env.TOKEN);
+client.login('ODcwODY4MjQxNDU3Nzc0NjUy.YQTBQA.nS6bO6W3kkxNl8Lvvaw2vS__aJ0');
