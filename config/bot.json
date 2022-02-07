@@ -1,0 +1,24 @@
+{
+  "colour": "BLUE",
+  "wrongcolour": "RED",
+  "footertext": "Made by Prabhat#5890",
+  "footericon": "",
+  "WelcomeImage " : "https://wallpaperscraft.com/wallpaper/city_buildings_silhouettes_212901",
+  "categories": {
+    "games": "🎮",
+    "config": "⚙️",
+    "automod" : "👍",
+    "giveaway": "🎉",
+    "information": "📻",
+    "moderation": "🔨",
+    "music": "🎵",
+    "musicfilter": "🎼",
+    "owner": "👑",
+    "leveling": "🎂",
+    "ticket": "🎫",
+    "utility": ":comet:",
+    "welcome_leave": "✨",
+    "rr_roles": "🎁",
+    "yt_poster" : "❤"
+  }
+}
