@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const Client=  require("discord.js");
 const Message = require("discord.js");
 const MessageEmbed = require("discord.js");
-const CCollection = require("discord.js");
+const Collection = require("discord.js");
 
 
 
