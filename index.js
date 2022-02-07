@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const { Client, Message, MessageEmbed, Collection } = require("discord.js");
+const Client, Message, MessageEmbed, Collection = require("discord.js");
 
 
 const fs = require("fs");
