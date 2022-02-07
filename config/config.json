@@ -9,7 +9,7 @@
     "everyoneMention": false,
     "hostedBy": false,
     "reactionSuccess": "✔️",
-    "mongoose": "mongodb+srv://Snzy:neji@webupt.vhkov.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoose": "mongodb+srv://skyla:skyla@cluster0.skbtb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "customs": {
         "clear": "dynaudnorm=f=200",
         "lightbass": "bass=g=8,dynaudnorm=f=200",
