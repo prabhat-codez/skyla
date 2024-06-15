@@ -2,14 +2,14 @@
    
     "prefix": "s!",
     "b_id" : "157652",
-    "b_key" : "Enr5H7upyFrdF61Y",
-    "ownerID": "806924400494248006",
-    "ownerid": "806924400494248006",
+    "b_key" : "",
+    "ownerID": "",
+    "ownerid": "",
  "voice_log_console": true,
     "everyoneMention": false,
     "hostedBy": false,
     "reactionSuccess": "✔️",
-    "mongoose": "mongodb+srv://skyla:skyla@cluster0.skbtb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoose": "",
     "customs": {
         "clear": "dynaudnorm=f=200",
         "lightbass": "bass=g=8,dynaudnorm=f=200",
